@@ -1,0 +1,3 @@
+var i: Int = 7
+var j: Int = 4
+var s: String = "Ljubav"
